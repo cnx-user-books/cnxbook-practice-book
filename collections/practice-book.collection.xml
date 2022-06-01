@@ -1,0 +1,22 @@
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+    <md:content-id>col26733</md:content-id>
+    <md:title>Practice Book</md:title>
+    <md:language>en</md:language>
+    <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License</md:license>
+    <md:uuid>a06294b7-e329-46c0-8ab7-db4dd4860bb5</md:uuid>
+<md:slug>practice-book</md:slug>
+</metadata>
+  <col:content>
+    <col:subcollection>
+      <md:title>Practice Chapter</md:title>
+      <col:content>
+        <col:module document="m72386"/>
+        <col:module document="m72397"/>
+        <col:module document="m72399"/>
+        <col:module document="m72400"/>
+        <col:module document="m72404"/>
+      </col:content>
+    </col:subcollection>
+  </col:content>
+</col:collection>
